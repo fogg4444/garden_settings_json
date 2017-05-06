@@ -3,8 +3,8 @@
   "bedlist": [
     {
       "bedChannel": 1,
-      "startTime": "10:50:00",
-      "duration": 600000,
+      "startTime": "11:25:00",
+      "duration": 300000,
       "ignoreOnRain": true
     }
   ]
