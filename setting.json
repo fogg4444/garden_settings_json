@@ -1,0 +1,11 @@
+{
+  "timezone": "pacific",
+  "bedlist": [
+    {
+      "bedChannel": 1,
+      "startTime": "10:40:00",
+      "duration": 600000,
+      "ignoreOnRain": true
+    }
+  ]
+}
